@@ -1,5 +1,5 @@
 jobs:
-  build: # имя взято для примера
+  build: setup
     runs-on: ubuntu-latest
 
     steps:
