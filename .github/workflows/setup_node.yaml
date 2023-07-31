@@ -1,7 +1,6 @@
 name: serup-node
 on: [push]
-jobs:
-  cypress-run:
+
   
     runs-on: ubuntu-latest
 
