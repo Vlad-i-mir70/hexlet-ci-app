@@ -3,8 +3,6 @@ name: Setup-Node
 on:
   push:
     
-jobs:
-  build:
 
     runs-on: ubuntu-latest
 
