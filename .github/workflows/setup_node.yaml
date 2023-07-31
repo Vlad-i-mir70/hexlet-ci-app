@@ -1,5 +1,7 @@
+name: setup nodse
+on: push
 jobs:
-  build: setup
+  security:
     runs-on: ubuntu-latest
 
     steps:
